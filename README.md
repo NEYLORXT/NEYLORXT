@@ -109,8 +109,8 @@
 - 💬 Discord : **NEYLORXT**  
 - 📨 Email : bientôt dispo  
 - 🔗 Portfolio : en cours de création
-- [Mecanes](https://linktr.ee/mecanes)
-- [Mon Lien](https://linktr.ee/neylorxt)
+- 🔗 [Mecanes](https://linktr.ee/mecanes)
+- 🔗 [Mon Lien](https://linktr.ee/neylorxt)
 
 ---
 
@@ -121,3 +121,61 @@
 <p align="center">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100" />
 </p>
+
+---
+
+## 📱 Me retrouver ailleurs
+
+<p align="center">
+  <!-- GitHub -->
+  <a href="https://github.com/NEYLORXT">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  
+  <!-- Discord -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@NEYLORXT">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+
+  <!-- Twitch -->
+  <a href="https://www.twitch.tv/neylorxt">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
+  </a>
+
+  <!-- Reddit
+  <a href="https://www.reddit.com/user/TON-PSEUDO">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+  </a>
+  -->
+
+  <!-- Twitter / X -->
+  <a href="https://twitter.com/neylorxtO">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+
+  <!-- Unreal Engine -->
+  <a href="https://www.fab.com/sellers/Mecanes">
+    <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
+  </a>
+</p>
+
+
+---
+
+## 🔧 Stack rapide
+
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/unrealengine-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+</p>
+
