@@ -76,7 +76,7 @@
 > Un système d'inventaire **modulaire** pour jeux de **survie multijoueur**  
 > Versions : Core / Plus / Pro
 
-[Inventory System Suite](https://www.fab.com/listings/c7098063-00a1-4a6b-ba2f-527803b025e2)
+[Pro Inventory System](https://www.fab.com/listings/c7098063-00a1-4a6b-ba2f-527803b025e2)
 
 ---
 
