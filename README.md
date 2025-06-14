@@ -7,7 +7,7 @@
 
 <p align="center">
   🔹 <strong>Game Developer</strong> | 🔸 <strong>Full Stack Web Developer</strong><br>
-  🔹 <strong>Plugin Creator</strong> for Unreal Engine | 🔸 <strong>Modder C# Unity</strong>
+  🔹 <strong>Plugin Creator</strong> for Unreal Engine
 </p>
 
 <p align="center">
