@@ -108,9 +108,8 @@
 
 - 💬 Discord : **NEYLORXT**  
 - 📨 Email : bientôt dispo  
-- 🔗 Portfolio : en cours de création
+- 🔗 [Portfolio](https://neylorxt-portfolio.netlify.app)
 - 🔗 [Mecanes](https://linktr.ee/mecanes)
-- 🔗 [Mon Lien](https://linktr.ee/neylorxt)
 
 ---
 
